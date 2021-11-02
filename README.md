@@ -9,7 +9,7 @@ Mini-projeto de clone de layout da página principal do [Starbucks](https://www.
 
 ## Descrição
 
-O site foi baseado na Starbucks  é uma empresa multinacional norte-americana, com a maior cadeia de cafeterias do mundo. Tem sua sede na cidade de Seattle, estado de Washington. Contem animações para menter a atenção do usuarios e os links das redes sociais deles localizados do lado direito da pagina. No momento não foi desenvolvido a versão responsiva da pagina.
+O site foi baseado na Starbucks é uma empresa multinacional norte-americana, com a maior cadeia de cafeterias do mundo. Tem sua sede na cidade de Seattle, estado de Washington. Contem animações para manter a atenção dos usuários e os links das redes sociais deles localizados do lado direito da página. No momento não foi desenvolvido a versão responsiva da página.
 
 
 ## Construído com
