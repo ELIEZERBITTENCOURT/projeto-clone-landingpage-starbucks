@@ -1,6 +1,8 @@
 <h1 align="center"> Clone Landing Page Starbucks </h1>
 
-<img src="DOC/resultado.png" alt="Demonstração da Tela" width="600">
+<div align="center">
+    <img src="DOC/resultado.png" alt="Demonstração da Tela" width="600">
+</div>
 
 Mini-projeto de clone de layout da página principal do [Starbucks](https://www.starbucks.com.br/) para estudo de utilização do CSS.
 
